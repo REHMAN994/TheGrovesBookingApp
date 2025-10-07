@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# The Groves Booking App
+
+This is a React-based booking application for The Groves.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# TheGrovesBookingApp
+>>>>>>> 6256ad91893f5a88f1305760be822d7644270e33
